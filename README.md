@@ -17,7 +17,7 @@ Bu projenin çalışması için aşağıdaki yazılımların sisteminizde yükl�
 
 ### Kurulum
 
-1. Bu projeyi yerel bir klasöre klonlayın:
+1. Bu projeyi yerel bir klasöre klonlayın yada zip olarak indirin:
 ```
 git clone https://github.com/DogusDeniz3558/Jquery-Ajax-ile-Todo-Uygulamasi.git
 
